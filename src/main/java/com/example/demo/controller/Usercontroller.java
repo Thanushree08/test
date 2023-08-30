@@ -10,7 +10,7 @@ import com.example.demo.service.UserService;
 
 
 @RestController
-@RequestMapping("/user")
+@RequestMapping("/users")
 public class Usercontroller {
 	
 	private UserService userService;
